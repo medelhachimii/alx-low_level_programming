@@ -14,5 +14,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	retun 0;
+
+	return 0;
 }
