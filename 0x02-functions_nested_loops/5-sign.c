@@ -7,7 +7,7 @@
  *Return: 1 if greater, 0 if equal or -1 if less than zero
  */
 
-input print_sign(int n)
+int print_sign(int n)
 {
 	if  n > 0)
 	{
