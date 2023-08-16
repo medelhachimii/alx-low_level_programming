@@ -2,14 +2,14 @@
 /**
  * print_sign : check main
  * @n: input number
- * DEscription: determines if the input number is
+ * Description: determines if the input number is
  * greater, equal or less than 0
  *Return: 1 if greater, 0 if equal or -1 if less than zero
  */
 
 int print_sign(int n)
 {
-	if  n > 0)
+	if (n > 0)
 	{
 		putchar('+');
 		return (1);
