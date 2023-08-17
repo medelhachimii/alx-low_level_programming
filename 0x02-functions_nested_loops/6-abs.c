@@ -5,7 +5,7 @@
  * this function return absloute value of a number
  * Return: Absolute value of number r
  */
-int_abs(int r)
+int _abs(int r)
 {
 	if (r >= 0)
 		return (r);
